@@ -14,7 +14,7 @@ Repositorio criado para análisar imagens com inteligencia artificial do Azure.
 ## 📝 Curso
 Bootcamp Microsoft Azure AI Fundamentals - [Digitalinnovation Dio](dio.me)
 
-## Analise Facial
+## 🙂🙂 Analise Facial
 1- Criar uma conta no Microsoft Azure
 
 2- Na pagina inicial ao lado direito "Serviços do Azure", clique em "IA + Machine Learning".
@@ -46,7 +46,7 @@ Bootcamp Microsoft Azure AI Fundamentals - [Digitalinnovation Dio](dio.me)
 
 15- Neste link [Documentação de como criar a sua aplicação de reconhecimento facil](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/identity-client-library?tabs=windows%2Cvisual-studio&pivots=programming-language-csharp)
 
-## Análise de Documentos (Para reconhecer textos atraves de imagens)
+## 📃📃 Análise de Documentos (Para reconhecer textos atraves de imagens)
 
 1- Na area inicial do Portal Vision, seleciona a aba "Optical character recognition" e em "Extract text from images".
 
@@ -56,8 +56,21 @@ Bootcamp Microsoft Azure AI Fundamentals - [Digitalinnovation Dio](dio.me)
 
 4- Tambem é possivel acessar a documentação [Documentação Analise de Documentos](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-ocr)
 
+## 📸📸 Análise de Imagens (IA descreve o que contem na imagem).
+
+1- Na area inicial do Portal Vision, seleciona a aba "Image Analysis" e em "Add captions to images".
+
+2- Ja podemos começar a testar com imagens padronizadas ou inserir imagens de nossos computadores.
+
+3- A plataforma ja identifica e descreve em forma de texto o conteudo da imagem.
+
+4- Esta area auxilia muito pela acessibilidade, torna aplicações mais acessiveis.
+
+5- 4- Tambem é possivel acessar a documentação para saber mais como captar essas imagens [Documentação Captação de Imagens](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-describe-images-40?tabs=image)
 
 
 ## 🔧 Habilidades
 Ler documentação do Azure com passo a passo e valores a serem inseridos.
 Criar conta no Microsoft Azure.
+Acessar o Portal Visio no Azure
+
